@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=xiaojue&count_private=true&show_icons=true&include_all_commits=true)
+![status](https://github-readme-stats.vercel.app/api?username=xiaojue&count_private=true&show_icons=true&include_all_commits=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaojue)](https://github.com/anuraghazra/github-readme-stats)
